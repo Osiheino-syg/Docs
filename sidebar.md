@@ -1,0 +1,5 @@
+- **Python**
+  - [Python Syntax](DOCS/PYTHON_DOCS/Python_Syntax.md)
+  - [Python Data Types](DOCS/PYTHON_DOCS/Python_Data_Types.md)
+- **Links**
+- [![Github](assets/img/icons8-github-24.png)Github](https://github.com/your-username/your-repo)
